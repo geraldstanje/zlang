@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*.out
+*tab.py
+*.swp
+test/
